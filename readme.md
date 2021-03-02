@@ -1,55 +1,65 @@
-## Hola, I'm [Nafis Sadik!](https://nafis-sadik.live) 👋
-![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+## Hi, I'm Md.Nafis Sadik 👋
 
-<a href="https://twitter.com/nafis_sadik">
-  <img style="fill: #1DA1F2; height: 22px;" class="icon twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Nafis Sadiks's Twitter"/>
+### I've been working as a Software Engineer since 1st March 2018. I'm experienced in Web Application & Game Development. Currently...
+- 💼 Working as Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
+- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Bootstrap, JQuery
+- 🌱 Learning vastly ASP.NET Core
+- 👯 I’m looking to collaborate on FullStack Web Application Development
+- 🤔 I’m looking for help with Microservice, DevOps
+- 💬 Ask me about any tech related stuff
+
+
+### Social Networks
+[<img align="left" alt="nafis-sadik-901185b4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="nafis.sadik.338 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="nafis_sadik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+
+
+<p>&nbsp;</p>
+
+
+### Languages
+<img align="left" alt="C Sharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+
+<p>&nbsp;</p>
+
+### Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<p>&nbsp;</p>
+
+
+### Frameworks
+<img align="left" alt="django" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
+<img align="left" alt="JQuery" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
+<img align="left" alt="angular" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />
+<img align="left" alt="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+### Github Stats
+
+
+[linkedin]: https://www.linkedin.com/in/nafis-sadik-901185b4/
+[facebook]: https://www.fb.com/nafis.sadik.338
+[twitter]: https://www.twitter.com/nafis_sadik
+
+<a href="https://github.com/nafis-sadik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafis-sadik&theme=dark" />
 </a>
-<a href="https://www.linkedin.com/in/nafis-sadik-901185b4/">
-  <img style=" height: 22px;" class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Nafis Sadiks's Linkdein" />
-</a>
-<a href="https://github.com/iampawan">
-  <img align="left" alt="Md. Nafis Sadiks's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Md. Nafis Sadiks's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/nafis_sadik.338/">
-  <img align="left" alt="Md. Nafis Sadiks's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/nafis.sadik.338/">
-  <img align="left" alt="Md. Nafis Sadiks's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
-
-
-
-- 🔭 I’m currently working on [Era Infotech](https://erainfotechbd.com/).
-- 🌱 I’m currently learning more about Angular.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-[![Twitter: Md. Nafis Sadik](https://img.shields.io/twitter/follow/nafis_sadik?style=social)](https://twitter.com/nafis_sadik)
-[![Linkedin: Md.Nafis Sadik](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafis-sadik-901185b4/)](https://www.linkedin.com/in/nafis-sadik-901185b4/)
-[![GitHub nafis-sadik](https://img.shields.io/github/followers/nafis-sadik?label=folowers&style=for-the-badge)](https://github.com/nafis-sadik)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=microsoft-edge)](https://nafis-sadik.live/)
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
+<p>&nbsp;</p>
+<a href="https://github.com/nafis-sadik">
     <img src="https://github-readme-stats.vercel.app/api?username=nafis-sadik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 

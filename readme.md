@@ -2,10 +2,10 @@
 ![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
 <a href="https://twitter.com/nafis_sadik">
-  <img class="icon twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Nafis Sadiks's Twitter"/>
+  <img style="fill: #1DA1F2; height: 22px;" class="icon twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Nafis Sadiks's Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/nafis-sadik-901185b4/">
-  <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Nafis Sadiks's Linkdein" />
+  <img style=" height: 22px;" class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Nafis Sadiks's Linkdein" />
 </a>
 <a href="https://github.com/iampawan">
   <img align="left" alt="Md. Nafis Sadiks's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -58,12 +58,3 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<style>
-.icon{
-    height: 22px;
-}
-.twitter{
-    fill: #1DA1F2;
-}
-</style>

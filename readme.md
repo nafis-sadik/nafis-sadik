@@ -62,6 +62,15 @@
 <a href="https://github.com/nafis-sadik">
     <img src="https://github-readme-stats.vercel.app/api?username=nafis-sadik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
+<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-MySQL">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MySQL&theme=tokyonight" />
+</a>
+<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-MSSQL">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MSSQL&theme=tokyonight" />
+</a>
+<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-Oracle">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-Oracle&theme=tokyonight" />
+</a>
 
 <div align="center">
 

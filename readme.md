@@ -62,6 +62,7 @@
 <a href="https://github.com/nafis-sadik">
     <img src="https://github-readme-stats.vercel.app/api?username=nafis-sadik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
+<p>&nbsp;</p>
 <a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-MySQL">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MySQL&theme=tokyonight" />
 </a>

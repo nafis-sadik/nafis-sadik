@@ -55,23 +55,15 @@
 [facebook]: https://www.fb.com/nafis.sadik.338
 [twitter]: https://www.twitter.com/nafis_sadik
 
-<a href="https://github.com/nafis-sadik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafis-sadik&theme=dark" />
-</a>
+![Md.Nafis Sadik](https://github-readme-stats.vercel.app/api?username=nafis-sadik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Programming Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nafis-sadik&theme=dark)
 <p>&nbsp;</p>
-<a href="https://github.com/nafis-sadik">
-    <img src="https://github-readme-stats.vercel.app/api?username=nafis-sadik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</a>
-<p>&nbsp;</p>
-<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-MySQL">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MySQL&theme=tokyonight" />
-</a>
-<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-MSSQL">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MSSQL&theme=tokyonight" />
-</a>
-<a href="https://github.com/nafis-sadik/Dotnet-Core-Scaffolding-Oracle">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-Oracle&theme=tokyonight" />
-</a>
+
+![Dotnet-Core-Scaffolding-Oracle](https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-Oracle&theme=tokyonight)
+![Dotnet-Core-Scaffolding-MSSQL](https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MSSQL&theme=tokyonight)
+![Dotnet-Core-Scaffolding-MySql](https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=Dotnet-Core-Scaffolding-MySQL&theme=tokyonight)
+![.NET-Core-MySql-Code-First](https://github-readme-stats.vercel.app/api/pin/?username=nafis-sadik&repo=.NET-Core-MySql-Code-First&theme=tokyonight)
 
 <div align="center">
 

@@ -1,10 +1,10 @@
 ## Hi, I'm Md.Nafis Sadik 👋
 
 ### I've been working as a Software Engineer since 1st March 2018. I'm experienced in Web Application & Game Development. Currently...
-- 💼 Working as Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
-- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Bootstrap, JQuery
-- 🌱 Learning vastly ASP.NET Core
-- 👯 I’m looking to collaborate on FullStack Web Application Development
+- 💼 Working as a Software Engineer at [Brain Station 23](https://brainstation-23.com/)
+- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Microservices, Bootstrap, JQuery
+- 🌱 Learning vastly Angular
+- 👯 I’m looking to collaborate on Enterprise solution development & System architecture
 - 🤔 I’m looking for help with Microservice, DevOps
 - 💬 Ask me about any tech related stuff
 

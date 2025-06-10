@@ -1,12 +1,11 @@
 ## Hi, I'm Md.Nafis Sadik 👋
 
 ### I've been working as a Software Engineer since 1st March 2018. I'm experienced in Web Application & Game Development. Currently...
-- 💼 Working as a Software Engineer at [SEBPO](https://sebpo.com/)
-- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Microservices, Bootstrap, JQuery
-- 🌱 Learning vastly Angular
+- 💼 Working as a Software Engineer at [Optimizely](https://www.optimizely.com/).
+- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Microservices, Bootstrap, JQuery
+- 🌱 Learning Docker
 - 👯 I’m looking to collaborate on Enterprise solution development & System architecture
-- 🤔 I’m looking for help with Microservice, DevOps
-- 💬 Ask me about any tech related stuff
+- 💬 Ask me about any tech-related stuff
 
 
 ### Social Networks
